@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+### run the json-server
+```
+npm run mock
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
